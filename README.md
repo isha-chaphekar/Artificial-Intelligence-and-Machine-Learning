@@ -1,2 +1,2 @@
-# Artificial-Intelligence-and-Machine-Learning
+# Artificial-Intelligence-and-Machine-Learning-Practicals
 Practicals for AIML course
